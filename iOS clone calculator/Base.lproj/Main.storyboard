@@ -323,7 +323,7 @@
                                 </subviews>
                             </stackView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Rml-qe-8BG">
-                                <rect key="frame" x="0.0" y="159" width="323" height="0.0"/>
+                                <rect key="frame" x="0.0" y="159" width="303" height="0.0"/>
                                 <fontDescription key="fontDescription" name="Helvetica-Light" family="Helvetica" pointSize="70"/>
                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
@@ -337,7 +337,7 @@
                             <constraint firstAttribute="trailing" secondItem="RdP-Bp-hhD" secondAttribute="trailing" constant="-3" id="Nd1-Zt-C7p"/>
                             <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="RdP-Bp-hhD" secondAttribute="bottom" id="Yds-XT-4M6"/>
                             <constraint firstItem="Rml-qe-8BG" firstAttribute="leading" secondItem="RdP-Bp-hhD" secondAttribute="leading" id="byg-he-B9d"/>
-                            <constraint firstItem="Rml-qe-8BG" firstAttribute="trailing" secondItem="RdP-Bp-hhD" secondAttribute="trailing" id="hCx-Lh-gPx"/>
+                            <constraint firstItem="Rml-qe-8BG" firstAttribute="trailing" secondItem="RdP-Bp-hhD" secondAttribute="trailing" constant="-20" id="hCx-Lh-gPx"/>
                         </constraints>
                     </view>
                     <connections>
